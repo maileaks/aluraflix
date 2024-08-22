@@ -31,14 +31,14 @@
             <a href="https://youtu.be/ssedBbn0EpA?si=bOBOxj6qt7FCCKan">
                 <img src="https://img.youtube.com/vi/ssedBbn0EpA/maxresdefault.jpg" />
             </a>
-            <a href="https://youtu.be/Wf3XpykY8_o?si=tlHpiQudUrEeKrZ6">
+            <a href="https://youtu.be/Wf3XpykY8_o?si=rlQWiRskTA5NS17N">
                 <img src="https://img.youtube.com/vi/Wf3XpykY8_o/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
-                <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
+            <a href="https://youtu.be/DnxTdmdR7Bk?si=zaqTy67fkyNXOhh3">
+                <img src="https://img.youtube.com/vi/DnxTdmdR7Bk/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=Ipkw_hWW-Hw">
-                <img src="https://img.youtube.com/vi/Ipkw_hWW-Hw/maxresdefault.jpg" />
+            <a href="https://youtu.be/EIWF8sp6HZQ?si=jvqAXaQli_39_Xew">
+                <img src="https://img.youtube.com/vi/EIWF8sp6HZQ/maxresdefault.jpg" />
             </a>
             <a href="https://www.youtube.com/watch?v=d4DzMNGoyis">
                 <img src="https://img.youtube.com/vi/d4DzMNGoyis/maxresdefault.jpg" />
