@@ -32,7 +32,11 @@ h1 {
 p {
     font-size: 20px;
 }
+/* código omitido */
 
+img {
+    height: 200px;
+}
 .categoria-videos {
     display: flex;
     overflow-x: auto;
