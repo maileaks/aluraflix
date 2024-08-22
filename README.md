@@ -31,8 +31,8 @@
             <a href="https://youtu.be/ssedBbn0EpA?si=bOBOxj6qt7FCCKan">
                 <img src="https://img.youtube.com/vi/ssedBbn0EpA/maxresdefault.jpg" />
             </a>
-            <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
-                <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
+            <a href="https://youtu.be/Wf3XpykY8_o?si=tlHpiQudUrEeKrZ6">
+                <img src="https://img.youtube.com/vi/Wf3XpykY8_o/maxresdefault.jpg" />
             </a>
             <a href="https://www.youtube.com/watch?v=FvRmEapoHRc">
                 <img src="https://img.youtube.com/vi/FvRmEapoHRc/maxresdefault.jpg" />
