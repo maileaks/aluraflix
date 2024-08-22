@@ -40,7 +40,7 @@
             <a href="https://youtu.be/EIWF8sp6HZQ?si=jvqAXaQli_39_Xew">
                 <img src="https://img.youtube.com/vi/EIWF8sp6HZQ/maxresdefault.jpg" />
             </a>
-            <a href="https://youtu.be/CIGakTSWkx0?si=mRnouYADQo_oZEDL">
+            <a href="https://youtu.be/CIGakTSWkx0?si=a1i8ctcLYIiNGn1l">
                 <img src="https://img.youtube.com/vi/CIGakTSWkx0/maxresdefault.jpg" />
             </a>
         </div>
