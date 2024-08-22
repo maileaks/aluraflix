@@ -22,13 +22,14 @@
         <div>
            <iframe width="560" height="315" src="https://www.youtube.com/embed/a8OI_4OepLM?si=stKFUPk5cQxFsJ9y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
+        
     </section>
 
     <section class="categoria">
         <h2>Filmes e séries</h2>
         <div class="categoria-videos">
             <a href="https://youtu.be/ssedBbn0EpA?si=bOBOxj6qt7FCCKan">
-                <img src="https://img.youtube.com/vi/cs15QqG6Gjc/maxresdefault.jpg" />
+                <img src="https://img.youtube.com/vi/ssedBbn0EpA/maxresdefault.jpg" />
             </a>
             <a href="https://www.youtube.com/watch?v=nCmIwcycUJ8">
                 <img src="https://img.youtube.com/vi/nCmIwcycUJ8/maxresdefault.jpg" />
